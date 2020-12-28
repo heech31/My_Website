@@ -6,7 +6,7 @@ title: Publications
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: 4
+view: 1
 
 # Publication types
 # 0 = Uncategorized

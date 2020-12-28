@@ -6,7 +6,7 @@ title: Hee Cheol Chung
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://stat.tamu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -48,7 +48,7 @@ social:
   link: mailto:heech31@gmail.com
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/fu2vfd1myb8dv2c/hcchung_cv_webpage.pdf?dl=0
+  url: "./images/hcchung_cv_webpage.pdf"
   #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
