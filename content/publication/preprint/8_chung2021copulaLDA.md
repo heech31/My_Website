@@ -1,16 +1,16 @@
 +++
-title = "Subspace rotations for high-dimensional outlier detection"
-date = "2020-11-01"
-publication_types = ["2"]
-authors = ["Hee Cheol Chung", "Jeongyoun Ahn"]
-publication = "*Journal of Multivariate Analysis*"
+title = "Discriminant analysis based on truncated copulas"
+date = "2021-01-05"
+publication_types = ["3"]
+authors = ["Hee Cheol Chung", "Yang Ni", "Grace Yoon", "Irina Gaynanova" ]
+publication = "(in preparation)"
 abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://doi.org/10.1016/j.jmva.2020.104713"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
