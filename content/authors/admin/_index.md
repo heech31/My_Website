@@ -73,5 +73,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a postdoctoral research associate in the Department of Statistics, Texas A&M University. I received a Ph.D. degree in Statistics from the University of Georgia under the direction of Gauri Sankar Datta and Jeongyoun Ahn.
+I am a postdoctoral research associate in the Department of Statistics, Texas A&M University. I am currently working with Drs. Raymond Carrol, Irina Gaynanova and Yang Ni. Before I joined Texas A&M, I received a Ph.D. degree in Statistics from the University of Georgia under the direction of Gauri Sankar Datta and Jeongyoun Ahn.
 
