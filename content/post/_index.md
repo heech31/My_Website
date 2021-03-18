@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Personal Interests
 
 # View.
 #   1 = List

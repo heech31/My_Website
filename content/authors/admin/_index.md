@@ -48,7 +48,7 @@ social:
   link: mailto:heech31@gmail.com
 - icon: cv
   icon_pack: ai
-  url: "./images/hcchung_cv_webpage.pdf"
+  link: "media/CV.pdf"
   #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   #icon_pack: fas
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
