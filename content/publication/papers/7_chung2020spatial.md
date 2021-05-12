@@ -1,6 +1,6 @@
 +++
 title = "Hierarchical Bayesian spatial models for small area estimation"
-date = "2021-12-01"
+date = "2021-01-01"
 publication_types = ["2"]
 authors = ["Hee Cheol Chung", "Gauri Sankar Datta"]
 publication = "(under review)"
