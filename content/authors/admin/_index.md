@@ -19,11 +19,12 @@ organizations:
 # Interests to show in About widget
 interests:
 
-- Anomaly detection
-- Bayesian inference
+- Bayesian network analysis
 - Discriminant analysis
-- Graphical models
+- High-dimensional data analysis
 - Small area estimation
+- Anomaly detection
+
 
 # Education to show in About widget
 education:

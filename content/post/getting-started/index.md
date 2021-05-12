@@ -38,9 +38,9 @@ authors:
 #- Demo
 ---
 
-{{< figure src="hcfs5.jpg" title="Phoenix park, Pyeongchang, Korea" >}}
-{{< figure src="Innsbruck.jpg" title="Nordpark, Innsbruck, Austria" >}}
-{{< figure src="ss.jpg" title="Jisan, Gyunggi, Korea" >}}
+{{< figure src="hcfs5.jpg" title="Pyeongchang, Korea" >}}
+{{< figure src="Innsbruck.jpg" title="Innsbruck, Austria" >}}
+{{< figure src="ss.jpg" title="Gyunggi, Korea" >}}
 <!--
 ## Overview
 

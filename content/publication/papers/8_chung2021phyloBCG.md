@@ -1,8 +1,8 @@
 +++
-title = "Hierarchical Bayesian spatial models for small area estimation"
+title = "Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks"
 date = "2021-12-01"
 publication_types = ["2"]
-authors = ["Hee Cheol Chung", "Gauri Sankar Datta"]
+authors = ["Hee Cheol Chung", "Irina Gaynanoa", "Yang Ni"]
 publication = "(under review)"
 abstract = ""
 abstract_short = ""
@@ -11,7 +11,7 @@ selected = false
 projects = []
 tags = []
 url_pdf = ""
-url_preprint = "https://www.census.gov/library/working-papers/2020/adrm/RRS2020-07.html"
+url_preprint = "https://arxiv.org/pdf/2105.05082.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
