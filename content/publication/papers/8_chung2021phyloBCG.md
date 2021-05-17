@@ -1,6 +1,6 @@
 +++
 title = "Phylogenetically informed Bayesian truncated copula graphical models for microbial association networks"
-date = "2021-01-01"
+date = "2021-01-02"
 publication_types = ["2"]
 authors = ["Hee Cheol Chung", "Irina Gaynanoa", "Yang Ni"]
 publication = "(under review)"
